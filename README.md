@@ -1,28 +1,24 @@
-# Template2D-Unity202015f1
+
+
+# Microgame
 
 ### Project description: 
-Introduction/Project summary 
+Microgame, in which you can enter your name press buttons and add numbers
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(Windows, Unity 2020.1.5f.1, Visual Studio 2019)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
-
-### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
-
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+WebGL, incl. HD resolution 
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+Know how to display name in the scene, scritable objects are hard
 
 ### Lessons Learned: 
+Switch between scenes by press Button, use scriptable objects to safe information between scene changes
 
-Copyright by you :)
+Copyright by Postroznik
+
